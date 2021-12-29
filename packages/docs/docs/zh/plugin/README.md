@@ -35,3 +35,5 @@
 整个插件系统的架构如下:
 
 ![Architecture of VuePress](/architecture.png)
+
+验证测试
